@@ -1,0 +1,219 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text padding="0" />
+      <mj-class name="blue" color="blue" />
+      <mj-class name="big" font-size="20px" />
+      <mj-all font-family="Helvetica,sans-serif" padding="0"/>
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-container>
+
+      <mj-section padding-top="15">
+        <mj-column>
+          <mj-image align="center" width="137" src="./images/logo.jpg"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-text 
+            align="center" font-size="9px" font-weight="700" color="#000000" font-family="Arial" padding-right="15">
+            www.unicreditbank.hu | +36 (1/20/30/70) 325 3200
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-hero
+        mode="fixed-height"
+        height="132px"
+        background-width="600px"
+        background-height="132px"
+        background-url="./images/head.jpg"
+        background-color="#2a3448"
+        padding="0px 0px">
+        <mj-hero-content width="100%">
+          <mj-text
+            text-transform="uppercase"
+            padding-top="40px"
+            padding-left="50px"
+            padding-right="0px"
+            padding-bottom="0px"
+            color="#ffffff"
+            align="left"
+            font-size="24"
+            font-weight="500">
+              haszonkulcs
+          </mj-text>
+          <mj-text
+            padding-top="10px"
+            padding-left="50px"
+            padding-right="0px"
+            padding-bottom="0px"
+            color="#ffffff"
+            align="left"
+            font-size="24"
+            font-weight="400">
+              Szeretek jól értesült lenni
+          </mj-text>
+        </mj-hero-content>
+      </mj-hero>      
+
+      <mj-section 
+        background-color="#e2f4f9"            
+        padding-top="20px"
+        padding-bottom="20px">
+        <mj-column width="70%">
+          <mj-text 
+            align="center"
+            font-size="12px" 
+            font-weight="700" 
+            color="#000000" 
+            font-family="Arial">
+            Beszéljünk az aktuális újdonságokról
+          </mj-text>
+        </mj-column>
+        <mj-column width="30%" >
+          <mj-text 
+            align="center" 
+            font-size="12px" 
+            font-weight="700" 
+            color="#000000" 
+            font-family="Arial">
+            2017. január
+          </mj-text>
+        </mj-column>        
+      </mj-section>
+
+      <mj-section  padding="15px">
+        <mj-column vertical-align="bottom" width="50%">
+          <mj-image align="center" width="270" src="./images/img1.jpg"></mj-image>
+        </mj-column>
+        <mj-column vertical-align="top" width="50%">
+          <mj-text align="center" padding-top="10">
+              <h1 style="font-size:24px; font-weight:700; color:#e21f26; font-family:Arial;">Ajánlom a bankom!</h1>
+              <p style="font-size:14px; font-weight:700; color:#000000; font-family:Arial;">Elégedett <br>a szolgáltatásainkkal?</p>
+          </mj-text>
+          <mj-button padding-bottom="10"
+            align="center" font-weight="700" font-size="10" background-color="#e21f26" inner-padding="8px" color="white" text-transform="uppercase">
+            további részletek
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-divider border-width="2px" border-style="solid" border-color="#e6e5e4" width="90%"/>
+        </mj-column>
+      </mj-section>
+
+      <mj-section  padding="15px" direction="rtl">
+        <mj-column>
+          <mj-image align="center" width="270" src="./images/img2.jpg"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-text 
+            align="left" font-size="24px" font-weight="700" color="#e21f26" font-family="Arial" padding-left="35" padding-top="25px">
+            Mobil App újabb funkciókkal
+          </mj-text>
+          <mj-text 
+            align="left" font-size="14px" font-weight="700" color="#000000" font-family="Arial" padding-left="35" padding-top="10px">
+            Előfordul, hogy a napi rohanásban nincs ideje bankfiókba menni?
+          </mj-text>
+          <mj-button 
+            align="right" padding-top="38px" padding-right="25px"
+            font-weight="700" font-size="10" background-color="#e21f26" inner-padding="8px" color="white" text-transform="uppercase">
+            további részletek
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-divider border-width="2px" border-style="solid" border-color="#e6e5e4" width="90%"/>
+        </mj-column>
+      </mj-section>
+
+      <mj-section  padding="15px">
+        <mj-column>
+          <mj-image align="center" width="270" src="./images/img3.jpg"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-text 
+            align="left" font-size="24px" font-weight="700" color="#e21f26" font-family="Arial" padding-left="55" padding-top="5px" line-height="1">
+            Pioneer<br>MyPortfolio<br>Alapok Alapja!
+          </mj-text>
+          <mj-text 
+            align="left" font-size="14px" font-weight="700" color="#000000" font-family="Arial" padding-left="55" padding-top="10px" line-height="1">
+            A portfóliókezelést részben helyettesítő befektetési alapot indított.
+          </mj-text>
+          <mj-button 
+            align="right" padding-top="38px" padding-right="25px"
+            font-weight="700" font-size="10" background-color="#e21f26" inner-padding="8px" color="white" text-transform="uppercase">
+            további részletek
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#c8eafa">
+        <mj-column>
+          <mj-spacer height="20px"/>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0">
+        <mj-column width="36%" >
+          <mj-text align="left" padding="20px" line-height="1"
+            font-weight="300" font-size="8">
+            Töltse le és aktiválja az <span style="color:#ff0000">UniCredit Mobil alkalmazást</span> Android vagy iOS okostelefonján vagy tabletjén, hogy bármikor hozzáférhessen számlájához. 
+          </mj-text>
+        </mj-column>
+        <mj-group  width="38%">
+          <mj-column width="50%">
+            <mj-image align="center" width="110" src="./images/googlePlay.jpg" padding-top="10"/>
+          </mj-column>
+          <mj-column width="50%">
+            <mj-image align="center" width="105" src="./images/appStore.jpg"  padding-top="10"/>
+          </mj-column>
+        </mj-group>
+        <mj-column width="25%" vertical-align="top">
+          <mj-social
+           padding-top="15"
+            mode="vertical"
+            display="youtube linkedin"/>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#c8eafa" padding-top="0">
+        <mj-column>
+          <mj-button 
+            align="center" padding-top="10px" width="95%"
+            font-weight="500" font-size="12" background-color="#044a74" inner-padding="8px" color="white">
+            <span style="font-weight:700">Értékelje</span> hírlevelünket &nbsp; &nbsp; &nbsp;<span style="color:#fbdddd">&#9733;</span> <span style="color:#f6acae">&#9733;</span> <span style="color:#f17779">&#9733;</span> <span style="color:#f05f5d">&#9733;</span> <span style="color:#ec2025">&#9733;</span> 
+          </mj-button>          
+        </mj-column>
+        <mj-column>
+          <mj-button 
+            align="center" padding-top="10px" width="95%"
+            font-weight="500" font-size="12" background-color="#044a74" inner-padding="8px" color="white" text-transform="uppercase">
+            írja meg <wbr>milyen témák erdeklik  &nbsp; &nbsp;&#12297;
+          </mj-button>          
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#c8eafa">
+        <mj-column>
+          <mj-text align="left" padding="20px" line-height="1" 
+            font-weight="300" font-size="12">Üdvözlettel:<br>UniCredit Bank Hungary Zrt.</mj-text>
+        </mj-column>
+
+      </mj-section>
+      <mj-section background-color="#e9e9ea" padding-top="60" padding-bottom="60" padding-left="80" padding-right="80">
+        <mj-column width="90%">
+          <mj-text align="justify" padding="20px" line-height="1"
+            font-weight="300" font-size="12"><img align="right" width="49" src="./images/obaLogo.jpg" padding-left="10px"/>A Lorem Ipsum egy egyszerû szövegrészlete, szövegutánzata a betûszedõ és nyomdaiparnak. A Lorem Ipsum az 1500-as évek óta standard szövegrészletként szolgált az iparban; mikor egy ismeretlen nyomdász összeállította a betûkészletét és egy példa-könyvet vagy szöveget nyomott papírra, ezt használta. Nem csak 5 évszázadot élt túl, de az elektronikus betûkészleteknél is változatlanul megmaradt. Az 1960-as években népszerûsítették a Lorem Ipsum részleteket magukbafoglaló Letraset lapokkal, és legutóbb softwarekkel mint például az Aldus Pagemaker.</mj-text>
+            
+        </mj-column>
+        <mj-column width="10%">
+          
+        </mj-column>
+      </mj-section>
+
+    </mj-container>
+  </mj-body>
+</mjml>
